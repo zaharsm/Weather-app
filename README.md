@@ -8,5 +8,5 @@
 
 <hr>  
 
-<img src="images/weather1.png" >
-<img src="images/weather2.png" >
+<img src="weather1.png" >
+<img src="weather2.png" >
